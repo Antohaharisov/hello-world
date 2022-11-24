@@ -1,9 +1,14 @@
-<!doctype html>
-    <html>
-        <head>
-            <!-- мой новый док -->
-        </head>
-        <body>
-            <!-- привет! Это новый документ в новой ветке -->
-        </body>
-    </html>
+*Здрасьте Вам*
+
+~~упс~~
+
+<sub> подстрочный шрифт </sub>
+
+**СПИСОК ДЕЛ:**
+
+* ЖРАТЬ
+* СПАТЬ
+* БУХАТЬ
+
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
